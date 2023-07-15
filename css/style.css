@@ -1,0 +1,158 @@
+.navparent{
+    display: flex;
+    width: 100%;
+}
+.logo{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menuitem ul{
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.menuitem{
+    width: 50%;
+}
+.menus{
+    color: #37393F;
+    font-family: 'Inter', sans-serif;
+}
+.buttonparent{
+    width:20% ;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.button{
+    padding: 15px 25px ;
+    background-color: #6B77E5;
+    border: 0px;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
+.cectionh1{
+    text-align: center;
+    color:  #37393F;
+    font-size: 18x;
+    margin-top: 80px;
+    font-family: 'Inter', sans-serif;
+}
+.sectionh2{
+    text-align: center;
+    color:  #37393F;
+    font-size: 40px; 
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.cardparent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.card{
+    width: 25%;
+    background-color: #F4F4F4;
+    padding: 40px;
+    text-align: center;
+}
+.card h3{
+    font-size: 25px;
+    color: #37393F;
+    font-family: 'Poppins', sans-serif;
+}
+.card p{
+    font-size: 18px;
+    color:  #7D7D7D;
+    margin: 30px 0 70px 0;
+    font-family: 'Inter', sans-serif;
+}
+.card h6{
+    font-size: 18px;
+    color: #6B77E5;
+    margin-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.background{
+    width: 100%;
+}
+.info{
+    width: 511px;
+    height: 270px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sectionparent{
+    position: relative;
+    text-align: center;
+    margin-top: 50px;
+}
+.info h6{
+    font-size: 18px;
+    color: #37393F;
+    font-family: 'Inter', sans-serif;
+}
+.info h1{
+    font-size: 40px;
+    color: #37393F;
+    margin: 25px 25px;
+    font-family: 'Poppins', sans-serif;
+}
+.info p{
+    font-size: 18px;
+    color: #37393F;
+    margin-bottom: 50px;
+    font-family: 'Inter', sans-serif;
+}
+.cardparent{
+    display: flex;
+    width: 100%;
+}
+.card1{
+    position: relative;
+}
+.cardinfo{
+    background-color: #FFFFFF;
+    width: 90%;
+    position: absolute;
+    bottom:20px;
+    left: 5%;
+    padding: 20px 20px ;
+    text-align: center;
+}
+.cardinfo h1{
+    font-size: 25px;
+    color: 
+    #37393F;
+    font-family: 'Poppins', sans-serif;
+}
+.cardinfo h6{
+    font-size: 18px;
+    color:  #7D7D7D;
+    margin-top: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
